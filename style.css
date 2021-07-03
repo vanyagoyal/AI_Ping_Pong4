@@ -1,0 +1,56 @@
+body {
+    background-size: 110%;
+    background-position-y:-484px;
+    background-position-x:center;
+}
+.heading_div {
+    padding:5px;
+    text-align: left;
+    height:80px;
+}
+#logo {
+    width:80px;
+    float: left;
+}
+#name {
+    font-size:80px;
+    margin-top:0px;
+    font-family: 'Jomhuria', cursive;
+    color:rgb(36, 42, 116);
+}
+#inst {
+    font-family: 'Castoro', serif;
+    font-size: 20px;
+    float: right;
+    margin-top: 13px;
+}
+.play {
+    margin-top:10px;
+    width:70px;
+    height:45px;
+    font-family: 'Akaya Kanadaka', cursive;
+    font-size:30px;
+    padding-top:3px;
+    margin:20px;
+}
+#status {
+    color:blueviolet;
+    background: rgb(252, 217, 129);
+    width:fit-content;
+    padding: 5px;
+    font-weight: bold;
+    font-family: 'Benne', serif;
+    font-size:30px;
+}
+ol {
+    text-align: left;
+    font-size:18px;
+    color:red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#heading {
+    margin:0px !important;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color:teal;
+}
